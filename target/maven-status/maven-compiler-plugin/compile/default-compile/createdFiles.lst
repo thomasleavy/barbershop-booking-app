@@ -1,0 +1,5 @@
+com\barbershop\booking\BookingSystem.class
+com\barbershop\booking\BookingManager.class
+com\barbershop\notifications\NotificationManager.class
+com\barbershop\notifications\NotificationService.class
+com\barbershop\booking\BookingManager$BookingDetails.class
