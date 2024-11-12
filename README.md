@@ -1,3 +1,6 @@
+# NOTE
+This project has been a learning exercise in JavaFX and Java app development.
+
 # Barbershop Booking App
 
 This JavaFX  application is a booking and management system for a barbershop. It has functionality for customers, staff, and administrators.
@@ -14,3 +17,6 @@ This JavaFX  application is a booking and management system for a barbershop. It
 - Apache Maven
  ```bash git clone https://github.com/thomasleavy/barbershop-booking-app.git
 cd barbershop-booking-app
+mvn javafx:run
+
+
